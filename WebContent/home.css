@@ -1,0 +1,62 @@
+@CHARSET "ISO-8859-1";
+
+body{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Arial" ;
+    font-size:12px;
+background:lightblue;float:center;}
+
+
+
+ 
+h1{ text-align:center;color:white;
+	font-family:"Times New Roman",Times,serif;
+	background-color:coral;
+	}
+div{
+display:block;align:right;
+}
+
+
+#left{float:center; width:300px;height:255px;background:url(doctor-icon.png);color:green;no repeat}
+#middle{float:left;width:330px;height:255px;background:url(clinic.jpg);}
+
+
+
+p{
+	text-align:left;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Arial" ;
+	
+	color:green;font-size:20.5px;}
+
+h5{
+	text-align:center;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Arial" ;
+	
+	color:white;font-size:40.5px;}
+
+input[type=text] {
+border:1px solid ;
+text-align:left; float:left;
+font-size:16px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Arial";color:Olive;
+}
+input[type=submit]  {
+text-decoration:none;
+width:100px;
+text-align:center;
+display:block;
+background-color:#FFBC00;
+color:#fff;
+border:1px solid #FFCB00;
+padding:10px 0;
+font-size:20px;
+cursor:pointer;
+border-radius:5px
+}
+td{
+    
+    border:solid 2px lightblue;
+     float:center;
+   
+}
+ 

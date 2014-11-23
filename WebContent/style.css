@@ -1,0 +1,107 @@
+@CHARSET "ISO-8859-1";
+
+root { 
+    display: block;    
+}
+body{
+    font-family:"Lucida Grande", "Lucida Sans Unicode", "Arial" ;
+    font-size:12px;
+background:lightblue;float:center;}
+ 
+	
+ 
+.myform{
+margin:0 auto; float:center;
+width:1002px; text-align:center;
+padding:14px;
+}
+ 
+ 
+#mystyle{
+border:solid 2px steelblue;
+background: white;text-align:center;
+border-radius: 5px;
+}
+#mystyle h1 {
+font-size:25px;
+font-weight:bold;text-align:center;float:center;width:1050px;
+
+}
+#mystyle p{
+font-size:17px;
+color:Blue; width:1050px;
+float:center;text-align:center;
+
+}
+#mystyle label{
+display:block;
+font-weight:bold;
+text-align:left;
+width:150px;
+float:left;
+}
+#mystyle .small{
+color:#666666;
+display:block;
+font-size:11px;
+font-weight:normal;
+text-align:left;float:center;
+width:150px;
+}
+#mystyle input{
+float:left;
+font-size:14px;
+padding:4px 2px;
+border:solid 2px silver;
+width:280px;
+margin:2px 0 20px 10px; color: Black;
+border-radius: 5px;
+}
+
+
+
+#mystyle select{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 2px black;
+width:280px;
+margin:2px 0 20px 10px;
+border-radius: 5px;
+}
+
+#mystyle option{
+float:left;
+font-size:12px;
+padding:4px 2px;
+border:solid 2px black;
+width:280px;
+margin:2px 0 20px 10px;
+border-radius: 5px;
+}
+
+
+
+#mystyle button{
+clear:both;float:center;
+margin-left:120px;
+width:125px;
+height:35px;
+background:#666666;
+text-align:center;
+line-height:31px;
+color:#FFFFFF;
+font-size:15px;
+font-weight:bold;
+border-radius: 5px;
+}
+ 
+#mystyle table,td{
+    border-radius: 5px;
+    border:solid 2px steelblue;
+    padding: 5px;    
+    width:1000px; float:center;
+    background-color: white;
+}
+
+ 
